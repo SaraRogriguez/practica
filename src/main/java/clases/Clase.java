@@ -9,5 +9,7 @@ package clases;
  * @author USER
  */
 public class Clase {
+    private String nombre;
+    private String nomb;
     
 }
